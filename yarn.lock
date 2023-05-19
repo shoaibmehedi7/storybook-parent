@@ -8046,8 +8046,8 @@ schema-utils@^4.0.0:
     ajv-keywords "^5.1.0"
 
 "search-child@git+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/search-child":
-  version "0.1.13"
-  resolved "git+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/search-child#a7c0c58d2a7d9ad0ecf6c5f847960c1794e7b0e2"
+  version "0.1.14"
+  resolved "git+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/search-child#9f3814817397f88c730fb2d5afd5ec93a0caf117"
   dependencies:
     "@babel/cli" "^7.20.7"
     "@babel/core" "^7.20.12"
