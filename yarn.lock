@@ -8045,9 +8045,9 @@ schema-utils@^4.0.0:
     ajv-formats "^2.1.1"
     ajv-keywords "^5.1.0"
 
-"search-child@git+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/search-child":
+"search-child@git+https://github.com/shoaibmehedi7/search-storybook.git":
   version "0.1.14"
-  resolved "git+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/search-child#9f3814817397f88c730fb2d5afd5ec93a0caf117"
+  resolved "git+https://github.com/shoaibmehedi7/search-storybook.git#9f3814817397f88c730fb2d5afd5ec93a0caf117"
   dependencies:
     "@babel/cli" "^7.20.7"
     "@babel/core" "^7.20.12"

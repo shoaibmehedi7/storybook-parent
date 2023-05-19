@@ -9,7 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "search-child": "git+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/search-child",
+    "search-child": "git+https://github.com/shoaibmehedi7/search-storybook.git",
     "typescript": "^4.9.5"
   },
   "scripts": {
